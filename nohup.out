@@ -1,0 +1,82 @@
+[I 11:02:28.723 NotebookApp] The port 8888 is already in use, trying another port.
+[I 2023-02-23 11:02:29.410 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-23 11:02:29.411 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 11:02:29.415 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas/pandas_task
+[I 11:02:29.415 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:02:29.415 NotebookApp] http://localhost:8889/?token=6be14873b81a3ace1db784629704c6983a25ccf41c479a36
+[I 11:02:29.415 NotebookApp]  or http://127.0.0.1:8889/?token=6be14873b81a3ace1db784629704c6983a25ccf41c479a36
+[I 11:02:29.415 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:02:29.440 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-13454-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=6be14873b81a3ace1db784629704c6983a25ccf41c479a36
+     or http://127.0.0.1:8889/?token=6be14873b81a3ace1db784629704c6983a25ccf41c479a36
+[W 11:02:36.513 NotebookApp] Notebook pandas_evaluation_task.ipynb is not trusted
+[I 11:02:43.030 NotebookApp] Kernel started: 2e84ce58-7f79-47f3-a128-45399f2c7690, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c7720fd2-ae49-4a80-822f-1f75020631c9
+[I 11:04:37.224 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:06:37.175 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:08:37.195 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:10:37.194 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:13:47.826 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:14:09.880 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:16:37.184 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:18:37.193 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:24:37.171 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:26:37.189 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:27:31.299 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:27:45.386 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:28:37.201 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:30:37.177 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:32:37.198 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:34:37.170 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:36:37.178 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:38:37.174 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:40:24.800 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:41:26.935 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:42:37.201 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:44:37.172 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:46:37.199 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:46:52.096 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:47:36.273 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:48:37.195 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:50:37.201 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:52:37.171 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:54:37.197 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:56:37.169 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:58:31.095 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 11:58:55.543 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:00:37.199 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:02:37.171 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:04:37.786 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:05:18.832 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:06:37.527 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:20:37.169 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:22:37.192 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:24:37.187 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:26:37.188 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:28:37.173 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:29:24.316 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:31:37.602 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:32:37.202 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:34:37.198 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[I 12:36:37.200 NotebookApp] Saving file at /pandas_evaluation_task.ipynb
+[W 12:39:51.643 NotebookApp] Notebook pandas_evaluation_task_solution.ipynb is not trusted
+[I 12:39:54.370 NotebookApp] Kernel started: 5dd50a83-9363-4466-8e22-4abfede88b1f, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 210cb2ff-586f-4da2-a623-08846a50e6b3
+[I 12:41:52.398 NotebookApp] Saving file at /pandas_evaluation_task_solution.ipynb
+[I 12:43:52.381 NotebookApp] Saving file at /pandas_evaluation_task_solution.ipynb
+[I 12:45:52.380 NotebookApp] Saving file at /pandas_evaluation_task_solution.ipynb
+[I 12:47:38.915 NotebookApp] Saving file at /pandas_evaluation_task_solution.ipynb
+[I 13:07:45.993 NotebookApp] Creating new notebook in 
+[I 13:07:47.806 NotebookApp] Kernel started: 1c86e788-fbb1-44d4-b5fe-610e95335382, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2ffc6957-7552-4da1-8a3e-4f7ac47074a9
+[I 13:09:14.596 NotebookApp] Saving file at /pandas dataset practice.ipynb
+[I 13:14:44.263 NotebookApp] Starting buffering for 1c86e788-fbb1-44d4-b5fe-610e95335382:11a97a8732c84b068a07f045b2776c6c
+[I 13:14:44.276 NotebookApp] Starting buffering for 5dd50a83-9363-4466-8e22-4abfede88b1f:8e9c70c527f94d5987f4a6629f37f99c
+[I 13:14:44.280 NotebookApp] Starting buffering for 2e84ce58-7f79-47f3-a128-45399f2c7690:6baaf15ae6d94f97b4d04534bc331578
